@@ -5782,7 +5782,7 @@
 	#Spawning options for mca:male_zombie_villager
 	[mca.male_zombie_villager]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
@@ -5795,7 +5795,7 @@
 	#Spawning options for mca:female_zombie_villager
 	[mca.female_zombie_villager]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
