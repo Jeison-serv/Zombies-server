@@ -3400,3 +3400,7 @@ com.google.gson.JsonSyntaxException: Invalid item: minecraft:air
 [27Nov2024 19:59:56.684] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [27Nov2024 20:00:25.593] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jecq24 lost connection: Disconnected
 [27Nov2024 20:00:25.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jecq24 left the game
+[27Nov2024 20:04:56.664] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Nov2024 20:04:56.672] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Nov2024 20:09:56.646] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Nov2024 20:09:56.652] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
