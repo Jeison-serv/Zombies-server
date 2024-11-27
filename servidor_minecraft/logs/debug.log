@@ -10187,3 +10187,10 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [27Nov2024 22:54:16.076] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [27Nov2024 22:59:16.028] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [27Nov2024 22:59:16.091] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Nov2024 23:04:15.970] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Nov2024 23:04:15.991] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Nov2024 23:06:51.022] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jecq24 lost connection: Disconnected
+[27Nov2024 23:06:51.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jecq24 left the game
+[27Nov2024 23:06:51.024] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 59dbf1c7-a196-3913-b1e5-3aa430a2d1de was unloaded
+[27Nov2024 23:09:15.945] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Nov2024 23:09:15.958] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

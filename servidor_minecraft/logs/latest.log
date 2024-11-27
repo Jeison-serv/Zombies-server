@@ -2381,3 +2381,6 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [27Nov2024 22:50:47.924] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Zaim'/1268, l='ServerLevel[world]', x=-205.70, y=62.00, z=224.26] died, message: 'Zaim was slain by Zombie'
 [27Nov2024 22:50:51.971] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Rrahman'/1269, l='ServerLevel[world]', x=-205.70, y=61.50, z=223.45] died, message: 'Rrahman was slain by Zombie'
 [27Nov2024 22:50:53.022] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Drit'/1270, l='ServerLevel[world]', x=-204.46, y=61.00, z=223.30] died, message: 'Drit was slain by Zombie'
+[27Nov2024 23:06:51.022] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jecq24 lost connection: Disconnected
+[27Nov2024 23:06:51.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jecq24 left the game
+[27Nov2024 23:06:51.024] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 59dbf1c7-a196-3913-b1e5-3aa430a2d1de was unloaded
