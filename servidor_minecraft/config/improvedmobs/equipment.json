@@ -1,0 +1,1924 @@
+{
+  "__comment": [
+    "Mobs will be able to equip items declared here",
+    "The first number is the weight while the second number is the quality",
+    "Weight is the weight of an item. Higher weight means that the item is more likely to get choosen",
+    "Quality is a modifier applied to the weight. The final weight used is weight + quality * current difficulty"
+  ],
+  "MAINHAND": {
+    "aquaculture:diamond_fillet_knife": [
+      1064,
+      -0.512
+    ],
+    "aquaculture:gold_fillet_knife": [
+      1442,
+      -3.536
+    ],
+    "aquaculture:iron_fillet_knife": [
+      1371,
+      -2.968
+    ],
+    "aquaculture:neptunium_axe": [
+      596,
+      3.232
+    ],
+    "aquaculture:neptunium_bow": [
+      50,
+      0.0
+    ],
+    "aquaculture:neptunium_fillet_knife": [
+      1409,
+      -3.272
+    ],
+    "aquaculture:neptunium_sword": [
+      696,
+      2.432
+    ],
+    "aquaculture:stone_fillet_knife": [
+      1410,
+      -3.28
+    ],
+    "aquaculture:wooden_fillet_knife": [
+      1436,
+      -3.488
+    ],
+    "aquaculturedelight:neptunium_knife": [
+      138,
+      6.896
+    ],
+    "bakery:bread_knife": [
+      1297,
+      -2.376
+    ],
+    "bakery:rolling_pin": [
+      1410,
+      -3.28
+    ],
+    "beachparty:pool_noodle": [
+      1410,
+      -3.28
+    ],
+    "born_in_chaos_v1:dark_ritual_dagger": [
+      1048,
+      -0.384
+    ],
+    "born_in_chaos_v1:darkwarblade": [
+      1,
+      14.816
+    ],
+    "born_in_chaos_v1:great_reaper_axe": [
+      778,
+      1.776
+    ],
+    "born_in_chaos_v1:intoxicating_dagger": [
+      970,
+      0.24
+    ],
+    "born_in_chaos_v1:nightmare_scythe": [
+      898,
+      0.816
+    ],
+    "born_in_chaos_v1:sharpened_dark_metal_sword": [
+      928,
+      0.576
+    ],
+    "born_in_chaos_v1:shell_mace": [
+      1062,
+      -0.496
+    ],
+    "born_in_chaos_v1:skullbreaker_hammer": [
+      540,
+      3.68
+    ],
+    "born_in_chaos_v1:soul_cutlass": [
+      1090,
+      -0.72
+    ],
+    "born_in_chaos_v1:soulbane": [
+      88,
+      7.296
+    ],
+    "born_in_chaos_v1:spiritual_sword": [
+      1188,
+      -1.504
+    ],
+    "born_in_chaos_v1:supreme_measure": [
+      1,
+      67432.945
+    ],
+    "born_in_chaos_v1:wood_splitter_axe": [
+      1027,
+      -0.216
+    ],
+    "butchersdelight:cleaver": [
+      1342,
+      -2.736
+    ],
+    "graveyard:bone_dagger": [
+      1298,
+      -2.384
+    ],
+    "majruszsdifficulty:enderium_axe": [
+      346,
+      5.232
+    ],
+    "majruszsdifficulty:enderium_sword": [
+      466,
+      4.272
+    ],
+    "majruszsdifficulty:wither_sword": [
+      1150,
+      -1.2
+    ],
+    "marbledsarsenal:barbed_baseball_bat": [
+      1150,
+      -1.2
+    ],
+    "marbledsarsenal:baseball_bat": [
+      1222,
+      -1.776
+    ],
+    "marbledsarsenal:bone_saw": [
+      1183,
+      -1.464
+    ],
+    "marbledsarsenal:crowbar": [
+      1150,
+      -1.2
+    ],
+    "marbledsarsenal:fire_axe": [
+      1062,
+      -0.496
+    ],
+    "marbledsarsenal:katana": [
+      987,
+      0.104
+    ],
+    "marbledsarsenal:machete": [
+      1062,
+      -0.496
+    ],
+    "marbledsarsenal:modern_axe": [
+      937,
+      0.504
+    ],
+    "marbledsarsenal:pipe_wrench": [
+      1188,
+      -1.504
+    ],
+    "marbledsarsenal:police_baton": [
+      1188,
+      -1.504
+    ],
+    "marbledsarsenal:sledgehammer": [
+      688,
+      2.496
+    ],
+    "marbledsarsenal:steel_baseball_bat": [
+      987,
+      0.104
+    ],
+    "marbledsarsenal:stop_sign": [
+      808,
+      1.536
+    ],
+    "marbledsarsenal:tanto": [
+      1225,
+      -1.8
+    ],
+    "marbledsarsenal:tomahawk": [
+      1183,
+      -1.464
+    ],
+    "mca:scythe": [
+      1040,
+      -0.32
+    ],
+    "mekanism:electric_bow": [
+      1300,
+      0.0
+    ],
+    "mekanismtools:bronze_axe": [
+      995,
+      0.04
+    ],
+    "mekanismtools:bronze_sword": [
+      1187,
+      -1.496
+    ],
+    "mekanismtools:lapis_lazuli_axe": [
+      1261,
+      -2.088
+    ],
+    "mekanismtools:lapis_lazuli_sword": [
+      1299,
+      -2.392
+    ],
+    "mekanismtools:osmium_axe": [
+      614,
+      3.088
+    ],
+    "mekanismtools:osmium_sword": [
+      904,
+      0.768
+    ],
+    "mekanismtools:refined_glowstone_axe": [
+      1046,
+      -0.368
+    ],
+    "mekanismtools:refined_glowstone_sword": [
+      1184,
+      -1.472
+    ],
+    "mekanismtools:refined_obsidian_axe": [
+      1,
+      12.224
+    ],
+    "mekanismtools:refined_obsidian_sword": [
+      1,
+      9.92
+    ],
+    "mekanismtools:steel_axe": [
+      900,
+      0.8
+    ],
+    "mekanismtools:steel_sword": [
+      1108,
+      -0.864
+    ],
+    "minecraft:bow": [
+      1108,
+      0.0
+    ],
+    "minecraft:crossbow": [
+      1000,
+      0.0
+    ],
+    "minecraft:diamond_axe": [
+      693,
+      2.456
+    ],
+    "minecraft:diamond_sword": [
+      789,
+      1.688
+    ],
+    "minecraft:enchanted_book": [
+      1100,
+      0.0
+    ],
+    "minecraft:golden_axe": [
+      1248,
+      -1.984
+    ],
+    "minecraft:golden_sword": [
+      1362,
+      -2.896
+    ],
+    "minecraft:iron_axe": [
+      1087,
+      -0.696
+    ],
+    "minecraft:iron_sword": [
+      1225,
+      -1.8
+    ],
+    "minecraft:lingering_potion{Potion:\"minecraft:harming\"}": [
+      1050,
+      0.0
+    ],
+    "minecraft:netherite_axe": [
+      498,
+      4.016
+    ],
+    "minecraft:netherite_sword": [
+      602,
+      3.184
+    ],
+    "minecraft:snowball": [
+      1400,
+      0.0
+    ],
+    "minecraft:splash_potion{Potion:\"minecraft:harming\"}": [
+      1050,
+      0.0
+    ],
+    "minecraft:stone_axe": [
+      1122,
+      -0.976
+    ],
+    "minecraft:stone_sword": [
+      1298,
+      -2.384
+    ],
+    "minecraft:tnt": [
+      800,
+      0.0
+    ],
+    "minecraft:trident": [
+      900,
+      0.0
+    ],
+    "minecraft:wooden_axe": [
+      1240,
+      -1.92
+    ],
+    "minecraft:wooden_sword": [
+      1354,
+      -2.832
+    ],
+    "mutantmore:adaptive_crossbow": [
+      1000,
+      0.0
+    ],
+    "mutantmore:withered_scimitar": [
+      1205,
+      -1.64
+    ],
+    "nethersdelight:diamond_machete": [
+      831,
+      1.352
+    ],
+    "nethersdelight:golden_machete": [
+      1392,
+      -3.136
+    ],
+    "nethersdelight:iron_machete": [
+      1263,
+      -2.104
+    ],
+    "nethersdelight:netherite_machete": [
+      648,
+      2.816
+    ],
+    "refurbished_furniture:knife": [
+      1223,
+      -1.784
+    ],
+    "refurbished_furniture:spatula": [
+      1295,
+      -2.36
+    ]
+  },
+  "OFFHAND": {
+    "mekanismtools:bronze_shield": [
+      1350,
+      0.0
+    ],
+    "mekanismtools:lapis_lazuli_shield": [
+      1350,
+      0.0
+    ],
+    "mekanismtools:osmium_shield": [
+      1350,
+      0.0
+    ],
+    "mekanismtools:refined_glowstone_shield": [
+      1350,
+      0.0
+    ],
+    "mekanismtools:refined_obsidian_shield": [
+      1350,
+      0.0
+    ],
+    "mekanismtools:steel_shield": [
+      1350,
+      0.0
+    ],
+    "minecraft:ender_pearl": [
+      1100,
+      0.0
+    ],
+    "minecraft:flint_and_steel": [
+      1200,
+      0.0
+    ],
+    "minecraft:lava_bucket": [
+      900,
+      0.0
+    ],
+    "minecraft:shield": [
+      1350,
+      0.0
+    ],
+    "mutantmore:mutant_shulker_shield": [
+      1350,
+      0.0
+    ]
+  },
+  "FEET": {
+    "aquaculture:neptunium_boots": [
+      19,
+      7.848
+    ],
+    "beachparty:crocs": [
+      1384,
+      -3.072
+    ],
+    "born_in_chaos_v1:dark_metal_armor_boots": [
+      1,
+      15.808
+    ],
+    "born_in_chaos_v1:nightmare_mantleofthe_night_boots": [
+      207,
+      6.344
+    ],
+    "fallout_inspired_power_armor:advanced_power_armor_boots": [
+      1,
+      31.664
+    ],
+    "fallout_inspired_power_armor:chief_t_51_boots": [
+      1,
+      103.808
+    ],
+    "fallout_inspired_power_armor:degraded_t_60_boots": [
+      1,
+      22.496
+    ],
+    "fallout_inspired_power_armor:enclave_x_02_paintjob_boots": [
+      1,
+      138.016
+    ],
+    "fallout_inspired_power_armor:ernstarmor_boots": [
+      1,
+      16.496
+    ],
+    "fallout_inspired_power_armor:frame_armor_boots": [
+      385,
+      4.92
+    ],
+    "fallout_inspired_power_armor:institute_x_03_boots": [
+      1,
+      179.728
+    ],
+    "fallout_inspired_power_armor:ranger_combat_armor_boots": [
+      1,
+      26.64
+    ],
+    "fallout_inspired_power_armor:reclaimed_t_51_boots": [
+      1,
+      103.808
+    ],
+    "fallout_inspired_power_armor:ryt_45_boots": [
+      1,
+      76.536
+    ],
+    "fallout_inspired_power_armor:ryt_51_boots": [
+      1,
+      103.808
+    ],
+    "fallout_inspired_power_armor:t_45_boots": [
+      1,
+      76.536
+    ],
+    "fallout_inspired_power_armor:t_5_1_boots": [
+      1,
+      103.808
+    ],
+    "fallout_inspired_power_armor:t_60_boots": [
+      1,
+      132.88
+    ],
+    "fallout_inspired_power_armor:t_60outcast_paintjob_boots": [
+      1,
+      132.88
+    ],
+    "fallout_inspired_power_armor:tesla_x_01_boots": [
+      1,
+      149.08
+    ],
+    "fallout_inspired_power_armor:the_finale_boots": [
+      1,
+      179.728
+    ],
+    "fallout_inspired_power_armor:warped_t_45_boots": [
+      1,
+      10.0
+    ],
+    "fallout_inspired_power_armor:warped_t_51_boots": [
+      1,
+      14.824
+    ],
+    "fallout_inspired_power_armor:warped_x_01_boots": [
+      1,
+      18.56
+    ],
+    "fallout_inspired_power_armor:warped_x_02_boots": [
+      1,
+      16.392
+    ],
+    "fallout_inspired_power_armor:warped_x_03_boots": [
+      1,
+      38.592
+    ],
+    "fallout_inspired_power_armor:x_02_red_rocket_paintjob_boots": [
+      1,
+      138.016
+    ],
+    "fallout_inspired_power_armor:x_03_boots": [
+      1,
+      179.728
+    ],
+    "fallout_inspired_power_armor:xo_1_boots": [
+      1,
+      166.896
+    ],
+    "fallout_inspired_power_armor:xo_2_boots": [
+      1,
+      138.016
+    ],
+    "majruszsdifficulty:enderium_boots": [
+      1,
+      11.04
+    ],
+    "majruszsdifficulty:tattered_boots": [
+      1302,
+      -2.416
+    ],
+    "marbledsarsenal:black_juggernaut_armor_boots": [
+      361,
+      5.112
+    ],
+    "marbledsarsenal:desert_military_armor_boots": [
+      444,
+      4.448
+    ],
+    "marbledsarsenal:hazmat_armor_boots": [
+      954,
+      0.368
+    ],
+    "marbledsarsenal:olive_juggernaut_armor_boots": [
+      361,
+      5.112
+    ],
+    "marbledsarsenal:riot_armor_boots": [
+      444,
+      4.448
+    ],
+    "marbledsarsenal:swat_armor_boots": [
+      444,
+      4.448
+    ],
+    "marbledsarsenal:winter_military_armor_boots": [
+      444,
+      4.448
+    ],
+    "mekanism:free_runners": [
+      1500,
+      -4.0
+    ],
+    "mekanism:free_runners_armored": [
+      1410,
+      -3.28
+    ],
+    "mekanism:hazmat_boots": [
+      1500,
+      -4.0
+    ],
+    "mekanism:mekasuit_boots": [
+      98,
+      7.216
+    ],
+    "mekanismtools:bronze_boots": [
+      455,
+      4.36
+    ],
+    "mekanismtools:lapis_lazuli_boots": [
+      1145,
+      -1.16
+    ],
+    "mekanismtools:osmium_boots": [
+      1,
+      8.632
+    ],
+    "mekanismtools:refined_glowstone_boots": [
+      281,
+      5.752
+    ],
+    "mekanismtools:refined_obsidian_boots": [
+      1,
+      24.896
+    ],
+    "mekanismtools:steel_boots": [
+      201,
+      6.392
+    ],
+    "minecraft:chainmail_boots": [
+      1098,
+      -0.784
+    ],
+    "minecraft:diamond_boots": [
+      444,
+      4.448
+    ],
+    "minecraft:golden_boots": [
+      1201,
+      -1.608
+    ],
+    "minecraft:iron_boots": [
+      954,
+      0.368
+    ],
+    "minecraft:leather_boots": [
+      1356,
+      -2.848
+    ],
+    "minecraft:netherite_boots": [
+      361,
+      5.112
+    ],
+    "mutantmonsters:mutant_skeleton_boots": [
+      542,
+      3.664
+    ],
+    "mutantmore:mutant_wither_skeleton_boots": [
+      1500,
+      -4.0
+    ],
+    "taccraft:assault_vest_boots": [
+      1,
+      11.328
+    ],
+    "taccraft:flak_vest_boots": [
+      410,
+      4.72
+    ],
+    "taccraft:heavy_assault_vest_boots": [
+      1,
+      20.768
+    ],
+    "taccraft:plate_carrier_boots": [
+      1,
+      9.136
+    ],
+    "taccraft:rrv_chest_rig_boots": [
+      891,
+      0.872
+    ],
+    "toughasnails:leaf_boots": [
+      1447,
+      -3.576
+    ],
+    "toughasnails:wool_boots": [
+      1447,
+      -3.576
+    ],
+    "vinery:vinemaker_boots": [
+      1302,
+      -2.416
+    ],
+    "wardrobe:desert_boots": [
+      1414,
+      -3.312
+    ],
+    "wardrobe:jungle_boots": [
+      1390,
+      -3.12
+    ],
+    "wardrobe:savanna_boots": [
+      1390,
+      -3.12
+    ],
+    "wardrobe:snowy_boots": [
+      987,
+      0.104
+    ],
+    "wardrobe:taiga_boots": [
+      1121,
+      -0.968
+    ]
+  },
+  "LEGS": {
+    "aquaculture:neptunium_leggings": [
+      19,
+      7.848
+    ],
+    "beachparty:bikini": [
+      1384,
+      -3.072
+    ],
+    "beachparty:trunks": [
+      1384,
+      -3.072
+    ],
+    "born_in_chaos_v1:dark_metal_armor_leggings": [
+      1,
+      15.808
+    ],
+    "born_in_chaos_v1:nightmare_mantleofthe_night_leggings": [
+      207,
+      6.344
+    ],
+    "fallout_inspired_power_armor:advanced_power_armor_leggings": [
+      1,
+      31.664
+    ],
+    "fallout_inspired_power_armor:chief_t_51_leggings": [
+      1,
+      103.808
+    ],
+    "fallout_inspired_power_armor:degraded_t_60_leggings": [
+      1,
+      22.496
+    ],
+    "fallout_inspired_power_armor:enclave_x_02_paintjob_leggings": [
+      1,
+      138.016
+    ],
+    "fallout_inspired_power_armor:ernstarmor_leggings": [
+      1,
+      16.496
+    ],
+    "fallout_inspired_power_armor:frame_armor_leggings": [
+      385,
+      4.92
+    ],
+    "fallout_inspired_power_armor:institute_x_03_leggings": [
+      1,
+      179.728
+    ],
+    "fallout_inspired_power_armor:ranger_combat_armor_leggings": [
+      1,
+      26.64
+    ],
+    "fallout_inspired_power_armor:reclaimed_t_51_leggings": [
+      1,
+      103.808
+    ],
+    "fallout_inspired_power_armor:red_t_51_leggings": [
+      1,
+      103.808
+    ],
+    "fallout_inspired_power_armor:ryt_45_leggings": [
+      1,
+      76.536
+    ],
+    "fallout_inspired_power_armor:ryt_51_leggings": [
+      1,
+      103.808
+    ],
+    "fallout_inspired_power_armor:t_45_leggings": [
+      1,
+      76.536
+    ],
+    "fallout_inspired_power_armor:t_5_1_leggings": [
+      1,
+      103.808
+    ],
+    "fallout_inspired_power_armor:t_60_leggings": [
+      1,
+      132.88
+    ],
+    "fallout_inspired_power_armor:t_60outcast_paintjob_leggings": [
+      1,
+      132.88
+    ],
+    "fallout_inspired_power_armor:tesla_x_01_leggings": [
+      1,
+      149.08
+    ],
+    "fallout_inspired_power_armor:the_finale_leggings": [
+      1,
+      179.728
+    ],
+    "fallout_inspired_power_armor:warped_t_45_leggings": [
+      1,
+      10.0
+    ],
+    "fallout_inspired_power_armor:warped_t_51_leggings": [
+      1,
+      14.824
+    ],
+    "fallout_inspired_power_armor:warped_x_01_leggings": [
+      1,
+      18.56
+    ],
+    "fallout_inspired_power_armor:warped_x_02_leggings": [
+      1,
+      16.392
+    ],
+    "fallout_inspired_power_armor:warped_x_03_leggings": [
+      1,
+      38.592
+    ],
+    "fallout_inspired_power_armor:x_02_red_rocket_paintjob_leggings": [
+      1,
+      138.016
+    ],
+    "fallout_inspired_power_armor:x_03_leggings": [
+      1,
+      179.728
+    ],
+    "fallout_inspired_power_armor:xo_1_leggings": [
+      1,
+      166.896
+    ],
+    "fallout_inspired_power_armor:xo_2_leggings": [
+      1,
+      138.016
+    ],
+    "majruszsdifficulty:enderium_leggings": [
+      1,
+      11.04
+    ],
+    "majruszsdifficulty:tattered_leggings": [
+      1302,
+      -2.416
+    ],
+    "marbledsarsenal:black_juggernaut_armor_leggings": [
+      361,
+      5.112
+    ],
+    "marbledsarsenal:desert_military_armor_leggings": [
+      444,
+      4.448
+    ],
+    "marbledsarsenal:hazmat_armor_leggings": [
+      954,
+      0.368
+    ],
+    "marbledsarsenal:olive_juggernaut_armor_leggings": [
+      361,
+      5.112
+    ],
+    "marbledsarsenal:riot_armor_leggings": [
+      444,
+      4.448
+    ],
+    "marbledsarsenal:swat_armor_leggings": [
+      444,
+      4.448
+    ],
+    "marbledsarsenal:winter_military_armor_leggings": [
+      444,
+      4.448
+    ],
+    "mekanism:hazmat_pants": [
+      1500,
+      -4.0
+    ],
+    "mekanism:mekasuit_pants": [
+      98,
+      7.216
+    ],
+    "mekanismtools:bronze_leggings": [
+      455,
+      4.36
+    ],
+    "mekanismtools:lapis_lazuli_leggings": [
+      1145,
+      -1.16
+    ],
+    "mekanismtools:osmium_leggings": [
+      1,
+      8.632
+    ],
+    "mekanismtools:refined_glowstone_leggings": [
+      281,
+      5.752
+    ],
+    "mekanismtools:refined_obsidian_leggings": [
+      1,
+      24.896
+    ],
+    "mekanismtools:steel_leggings": [
+      201,
+      6.392
+    ],
+    "minecraft:chainmail_leggings": [
+      1098,
+      -0.784
+    ],
+    "minecraft:diamond_leggings": [
+      444,
+      4.448
+    ],
+    "minecraft:golden_leggings": [
+      1201,
+      -1.608
+    ],
+    "minecraft:iron_leggings": [
+      954,
+      0.368
+    ],
+    "minecraft:leather_leggings": [
+      1356,
+      -2.848
+    ],
+    "minecraft:netherite_leggings": [
+      361,
+      5.112
+    ],
+    "mutantmonsters:mutant_skeleton_leggings": [
+      542,
+      3.664
+    ],
+    "mutantmore:mutant_wither_skeleton_leggings": [
+      1500,
+      -4.0
+    ],
+    "taccraft:assault_vest_leggings": [
+      1,
+      11.328
+    ],
+    "taccraft:flak_vest_leggings": [
+      410,
+      4.72
+    ],
+    "taccraft:heavy_assault_vest_leggings": [
+      1,
+      20.768
+    ],
+    "taccraft:plate_carrier_leggings": [
+      1,
+      9.136
+    ],
+    "taccraft:rrv_chest_rig_leggings": [
+      891,
+      0.872
+    ],
+    "toughasnails:leaf_leggings": [
+      1447,
+      -3.576
+    ],
+    "toughasnails:wool_leggings": [
+      1447,
+      -3.576
+    ],
+    "vinery:vinemaker_leggings": [
+      1302,
+      -2.416
+    ],
+    "wardrobe:desert_leggings": [
+      1414,
+      -3.312
+    ],
+    "wardrobe:jungle_leggings": [
+      1390,
+      -3.12
+    ],
+    "wardrobe:savanna_leggings": [
+      1390,
+      -3.12
+    ],
+    "wardrobe:snowy_leggings": [
+      987,
+      0.104
+    ],
+    "wardrobe:taiga_leggings": [
+      1121,
+      -0.968
+    ]
+  },
+  "CHEST": {
+    "aquaculture:neptunium_chestplate": [
+      19,
+      7.848
+    ],
+    "beachparty:rubber_ring_axolotl": [
+      1384,
+      -3.072
+    ],
+    "beachparty:rubber_ring_blue": [
+      1384,
+      -3.072
+    ],
+    "beachparty:rubber_ring_pelican": [
+      1384,
+      -3.072
+    ],
+    "beachparty:rubber_ring_pink": [
+      1384,
+      -3.072
+    ],
+    "beachparty:rubber_ring_stripped": [
+      1384,
+      -3.072
+    ],
+    "beachparty:swim_wings": [
+      1384,
+      -3.072
+    ],
+    "born_in_chaos_v1:dark_metal_armor_chestplate": [
+      1,
+      15.808
+    ],
+    "born_in_chaos_v1:nightmare_mantleofthe_night_chestplate": [
+      207,
+      6.344
+    ],
+    "born_in_chaos_v1:spiny_shell_armor_chestplate": [
+      985,
+      0.12
+    ],
+    "fallout_inspired_power_armor:advanced_power_armor_chestplate": [
+      1,
+      31.664
+    ],
+    "fallout_inspired_power_armor:chief_t_51_chestplate": [
+      1,
+      103.808
+    ],
+    "fallout_inspired_power_armor:chief_t_51_jetpack_chestplate": [
+      1,
+      109.584
+    ],
+    "fallout_inspired_power_armor:chief_t_51_rocket_chestplate": [
+      1,
+      109.584
+    ],
+    "fallout_inspired_power_armor:degraded_t_60_chestplate": [
+      1,
+      22.496
+    ],
+    "fallout_inspired_power_armor:enclave_x_02_jetpack_chestplate": [
+      1,
+      144.672
+    ],
+    "fallout_inspired_power_armor:enclave_x_02_paintjob_chestplate": [
+      1,
+      138.016
+    ],
+    "fallout_inspired_power_armor:enclave_x_02_rocket_chestplate": [
+      1,
+      144.672
+    ],
+    "fallout_inspired_power_armor:ernstarmor_chestplate": [
+      1,
+      16.496
+    ],
+    "fallout_inspired_power_armor:frame_armor_chestplate": [
+      385,
+      4.92
+    ],
+    "fallout_inspired_power_armor:health_t_45_chestplate": [
+      1,
+      81.528
+    ],
+    "fallout_inspired_power_armor:institure_x_03_jetpack_chestplate": [
+      1,
+      187.168
+    ],
+    "fallout_inspired_power_armor:institute_x_03_chestplate": [
+      1,
+      179.728
+    ],
+    "fallout_inspired_power_armor:institute_x_03_rocket_chestplate": [
+      1,
+      187.168
+    ],
+    "fallout_inspired_power_armor:missle_launcher_t_51_chestplate": [
+      385,
+      4.92
+    ],
+    "fallout_inspired_power_armor:ranger_combat_armor_chestplate": [
+      1,
+      26.64
+    ],
+    "fallout_inspired_power_armor:reclaimed_t_51_chestplate": [
+      1,
+      103.808
+    ],
+    "fallout_inspired_power_armor:reclaimed_t_51_jetpack_chestplate": [
+      1,
+      109.584
+    ],
+    "fallout_inspired_power_armor:reclaimed_t_51_rocket_chestplate": [
+      1,
+      109.584
+    ],
+    "fallout_inspired_power_armor:red_t_51_chestplate": [
+      1,
+      103.808
+    ],
+    "fallout_inspired_power_armor:rocketmama_chestplate": [
+      1,
+      87.584
+    ],
+    "fallout_inspired_power_armor:ry_2_rocket_t_45_chestplate": [
+      1,
+      81.528
+    ],
+    "fallout_inspired_power_armor:ryt_45_chestplate": [
+      1,
+      76.536
+    ],
+    "fallout_inspired_power_armor:ryt_45_jetpack_chestplate": [
+      1,
+      81.528
+    ],
+    "fallout_inspired_power_armor:ryt_51_chestplate": [
+      1,
+      103.808
+    ],
+    "fallout_inspired_power_armor:ryt_51_jetpack_chestplate": [
+      1,
+      109.584
+    ],
+    "fallout_inspired_power_armor:ryt_51_rocket_chestplate": [
+      1,
+      109.584
+    ],
+    "fallout_inspired_power_armor:t_45_chestplate": [
+      1,
+      76.536
+    ],
+    "fallout_inspired_power_armor:t_45_jetpack_chestplate": [
+      1,
+      81.528
+    ],
+    "fallout_inspired_power_armor:t_45_rocket_chestplate": [
+      1,
+      81.528
+    ],
+    "fallout_inspired_power_armor:t_51_jetpack_chestplate": [
+      1,
+      109.584
+    ],
+    "fallout_inspired_power_armor:t_51_makeshift_chestplate": [
+      1,
+      82.264
+    ],
+    "fallout_inspired_power_armor:t_51_rocket_chestplate": [
+      1,
+      109.584
+    ],
+    "fallout_inspired_power_armor:t_5_1_chestplate": [
+      1,
+      103.808
+    ],
+    "fallout_inspired_power_armor:t_60_chestplate": [
+      1,
+      132.88
+    ],
+    "fallout_inspired_power_armor:t_60_jetpack_chestplate": [
+      1,
+      132.88
+    ],
+    "fallout_inspired_power_armor:t_60_rocket_chestplate": [
+      1,
+      132.88
+    ],
+    "fallout_inspired_power_armor:t_60outcast_jetpack_chestplate": [
+      1,
+      132.88
+    ],
+    "fallout_inspired_power_armor:t_60outcast_paintjob_chestplate": [
+      1,
+      132.88
+    ],
+    "fallout_inspired_power_armor:t_60outcast_rocket_chestplate": [
+      1,
+      132.88
+    ],
+    "fallout_inspired_power_armor:tesla_x_01_chestplate": [
+      1,
+      149.08
+    ],
+    "fallout_inspired_power_armor:the_finale_chestplate": [
+      1,
+      179.728
+    ],
+    "fallout_inspired_power_armor:warped_t_45_chestplate": [
+      1,
+      10.0
+    ],
+    "fallout_inspired_power_armor:warped_t_51_chestplate": [
+      1,
+      14.824
+    ],
+    "fallout_inspired_power_armor:warped_x_01_chestplate": [
+      1,
+      18.56
+    ],
+    "fallout_inspired_power_armor:warped_x_02_chestplate": [
+      1,
+      16.392
+    ],
+    "fallout_inspired_power_armor:warped_x_03_chestplate": [
+      1,
+      38.592
+    ],
+    "fallout_inspired_power_armor:x_01_jetpack_chestplate": [
+      1,
+      174.104
+    ],
+    "fallout_inspired_power_armor:x_01_rocket_chestplate": [
+      1,
+      174.104
+    ],
+    "fallout_inspired_power_armor:x_02_jetpack_chestplate": [
+      1,
+      144.672
+    ],
+    "fallout_inspired_power_armor:x_02_jetpack_red_rocket_chestplate": [
+      1,
+      144.672
+    ],
+    "fallout_inspired_power_armor:x_02_red_rocket_paintjob_chestplate": [
+      1,
+      138.016
+    ],
+    "fallout_inspired_power_armor:x_02_rocket_chestplate": [
+      1,
+      144.672
+    ],
+    "fallout_inspired_power_armor:x_02_rocket_red_rocket_chestplate": [
+      1,
+      144.672
+    ],
+    "fallout_inspired_power_armor:x_03_chestplate": [
+      1,
+      179.728
+    ],
+    "fallout_inspired_power_armor:x_03_fire_aura_chestplate": [
+      1,
+      179.728
+    ],
+    "fallout_inspired_power_armor:x_03_jetpack_chestplate": [
+      1,
+      187.168
+    ],
+    "fallout_inspired_power_armor:x_03_rocket_chestplate": [
+      1,
+      187.168
+    ],
+    "fallout_inspired_power_armor:xo_1_chestplate": [
+      1,
+      166.896
+    ],
+    "fallout_inspired_power_armor:xo_2_chestplate": [
+      1,
+      138.016
+    ],
+    "majruszsdifficulty:enderium_chestplate": [
+      1,
+      11.04
+    ],
+    "majruszsdifficulty:tattered_chestplate": [
+      1302,
+      -2.416
+    ],
+    "marbledsarsenal:black_juggernaut_armor_chestplate": [
+      361,
+      5.112
+    ],
+    "marbledsarsenal:black_plate_carrier_t1": [
+      954,
+      0.368
+    ],
+    "marbledsarsenal:black_plate_carrier_t2": [
+      444,
+      4.448
+    ],
+    "marbledsarsenal:black_plate_carrier_t3": [
+      361,
+      5.112
+    ],
+    "marbledsarsenal:desert_military_armor_chestplate": [
+      444,
+      4.448
+    ],
+    "marbledsarsenal:hazmat_armor_chestplate": [
+      954,
+      0.368
+    ],
+    "marbledsarsenal:olive_juggernaut_armor_chestplate": [
+      361,
+      5.112
+    ],
+    "marbledsarsenal:olive_plate_carrier_t1": [
+      954,
+      0.368
+    ],
+    "marbledsarsenal:olive_plate_carrier_t2": [
+      444,
+      4.448
+    ],
+    "marbledsarsenal:olive_plate_carrier_t3": [
+      361,
+      5.112
+    ],
+    "marbledsarsenal:riot_armor_chestplate": [
+      444,
+      4.448
+    ],
+    "marbledsarsenal:swat_armor_chestplate": [
+      444,
+      4.448
+    ],
+    "marbledsarsenal:winter_military_armor_chestplate": [
+      444,
+      4.448
+    ],
+    "mekanism:hazmat_gown": [
+      1500,
+      -4.0
+    ],
+    "mekanism:jetpack": [
+      1500,
+      -4.0
+    ],
+    "mekanism:jetpack_armored": [
+      1236,
+      -1.888
+    ],
+    "mekanism:mekasuit_bodyarmor": [
+      98,
+      7.216
+    ],
+    "mekanism:scuba_tank": [
+      1500,
+      -4.0
+    ],
+    "mekanismtools:bronze_chestplate": [
+      455,
+      4.36
+    ],
+    "mekanismtools:lapis_lazuli_chestplate": [
+      1145,
+      -1.16
+    ],
+    "mekanismtools:osmium_chestplate": [
+      1,
+      8.632
+    ],
+    "mekanismtools:refined_glowstone_chestplate": [
+      281,
+      5.752
+    ],
+    "mekanismtools:refined_obsidian_chestplate": [
+      1,
+      24.896
+    ],
+    "mekanismtools:steel_chestplate": [
+      201,
+      6.392
+    ],
+    "minecraft:chainmail_chestplate": [
+      1098,
+      -0.784
+    ],
+    "minecraft:diamond_chestplate": [
+      444,
+      4.448
+    ],
+    "minecraft:golden_chestplate": [
+      1201,
+      -1.608
+    ],
+    "minecraft:iron_chestplate": [
+      954,
+      0.368
+    ],
+    "minecraft:leather_chestplate": [
+      1356,
+      -2.848
+    ],
+    "minecraft:netherite_chestplate": [
+      361,
+      5.112
+    ],
+    "mutantmonsters:mutant_skeleton_chestplate": [
+      542,
+      3.664
+    ],
+    "mutantmore:mutant_wither_skeleton_chestplate": [
+      1500,
+      -4.0
+    ],
+    "taccraft:assault_vest_chestplate": [
+      1,
+      11.328
+    ],
+    "taccraft:flak_vest_chestplate": [
+      410,
+      4.72
+    ],
+    "taccraft:heavy_assault_vest_chestplate": [
+      1,
+      20.768
+    ],
+    "taccraft:plate_carrier_chestplate": [
+      1,
+      9.136
+    ],
+    "taccraft:rrv_chest_rig_chestplate": [
+      891,
+      0.872
+    ],
+    "toughasnails:leaf_chestplate": [
+      1447,
+      -3.576
+    ],
+    "toughasnails:wool_chestplate": [
+      1447,
+      -3.576
+    ],
+    "vinery:vinemaker_apron": [
+      1302,
+      -2.416
+    ],
+    "wardrobe:broken_barrel_chestplate": [
+      1378,
+      -3.024
+    ],
+    "wardrobe:desert_chestplate": [
+      1414,
+      -3.312
+    ],
+    "wardrobe:jungle_chestplate": [
+      1390,
+      -3.12
+    ],
+    "wardrobe:savanna_chestplate": [
+      1390,
+      -3.12
+    ],
+    "wardrobe:snowy_chestplate": [
+      987,
+      0.104
+    ],
+    "wardrobe:taiga_chestplate": [
+      1121,
+      -0.968
+    ],
+    "wardrobe:wool_vest_chestplate": [
+      1478,
+      -3.824
+    ],
+    "wearablebackpacks:backpack": [
+      1423,
+      -3.384
+    ]
+  },
+  "HEAD": {
+    "aquaculture:neptunium_helmet": [
+      19,
+      7.848
+    ],
+    "beachparty:beach_hat": [
+      1384,
+      -3.072
+    ],
+    "beachparty:sunglasses": [
+      1384,
+      -3.072
+    ],
+    "born_in_chaos_v1:dark_metal_armor_helmet": [
+      1,
+      15.808
+    ],
+    "born_in_chaos_v1:nightmare_mantleofthe_night_helmet": [
+      207,
+      6.344
+    ],
+    "born_in_chaos_v1:spiny_shell_armor_helmet": [
+      985,
+      0.12
+    ],
+    "fallout_inspired_power_armor:advanced_power_armor_helmet": [
+      1,
+      31.664
+    ],
+    "fallout_inspired_power_armor:chief_t_51_helmet": [
+      1,
+      103.808
+    ],
+    "fallout_inspired_power_armor:degraded_t_60_helmet": [
+      1,
+      22.496
+    ],
+    "fallout_inspired_power_armor:enclave_x_02_orange_helmet": [
+      1,
+      138.016
+    ],
+    "fallout_inspired_power_armor:enclave_x_02_paintjob_helmet": [
+      1,
+      138.016
+    ],
+    "fallout_inspired_power_armor:ernstarmor_helmet": [
+      1,
+      16.496
+    ],
+    "fallout_inspired_power_armor:frame_armor_helmet": [
+      385,
+      4.92
+    ],
+    "fallout_inspired_power_armor:franks_helmet_helmet": [
+      1,
+      173.28
+    ],
+    "fallout_inspired_power_armor:institute_x_03_helmet": [
+      1,
+      179.728
+    ],
+    "fallout_inspired_power_armor:ranger_combat_armor_helmet": [
+      1,
+      26.64
+    ],
+    "fallout_inspired_power_armor:reclaimed_t_51_helmet": [
+      1,
+      103.808
+    ],
+    "fallout_inspired_power_armor:ryt_45_helmet": [
+      1,
+      76.536
+    ],
+    "fallout_inspired_power_armor:ryt_51_helmet": [
+      1,
+      103.808
+    ],
+    "fallout_inspired_power_armor:t_45_helmet": [
+      1,
+      76.536
+    ],
+    "fallout_inspired_power_armor:t_51_laser_helmet_helmet": [
+      1,
+      103.808
+    ],
+    "fallout_inspired_power_armor:t_51_makeshift_helmet": [
+      1,
+      82.264
+    ],
+    "fallout_inspired_power_armor:t_5_1_helmet": [
+      1,
+      103.808
+    ],
+    "fallout_inspired_power_armor:t_60_helmet": [
+      1,
+      132.88
+    ],
+    "fallout_inspired_power_armor:t_60outcast_paintjob_helmet": [
+      1,
+      132.88
+    ],
+    "fallout_inspired_power_armor:tesla_x_01_helmet": [
+      1,
+      149.08
+    ],
+    "fallout_inspired_power_armor:the_finale_helmet": [
+      1,
+      179.728
+    ],
+    "fallout_inspired_power_armor:warped_t_45_helmet": [
+      1,
+      10.0
+    ],
+    "fallout_inspired_power_armor:warped_t_51_helmet": [
+      1,
+      14.824
+    ],
+    "fallout_inspired_power_armor:warped_x_01_helmet": [
+      1,
+      18.56
+    ],
+    "fallout_inspired_power_armor:warped_x_02_helmet": [
+      1,
+      16.392
+    ],
+    "fallout_inspired_power_armor:warped_x_03_helmet": [
+      1,
+      38.592
+    ],
+    "fallout_inspired_power_armor:x_02_red_rocket_paintjob_helmet": [
+      1,
+      138.016
+    ],
+    "fallout_inspired_power_armor:x_03_helmet": [
+      1,
+      179.728
+    ],
+    "fallout_inspired_power_armor:xo_1_helmet": [
+      1,
+      166.896
+    ],
+    "fallout_inspired_power_armor:xo_2_helmet": [
+      1,
+      138.016
+    ],
+    "majruszsdifficulty:enderium_helmet": [
+      1,
+      11.04
+    ],
+    "majruszsdifficulty:tattered_helmet": [
+      1302,
+      -2.416
+    ],
+    "marbledsarsenal:black_gp5_gas_mask": [
+      954,
+      0.368
+    ],
+    "marbledsarsenal:black_juggernaut_armor_helmet": [
+      361,
+      5.112
+    ],
+    "marbledsarsenal:black_military_beret": [
+      1356,
+      -2.848
+    ],
+    "marbledsarsenal:cm6m_gas_mask": [
+      954,
+      0.368
+    ],
+    "marbledsarsenal:cm7m_gas_mask": [
+      954,
+      0.368
+    ],
+    "marbledsarsenal:cm8m_gas_mask": [
+      954,
+      0.368
+    ],
+    "marbledsarsenal:combat_helmet": [
+      444,
+      4.448
+    ],
+    "marbledsarsenal:desert_military_armor_helmet": [
+      444,
+      4.448
+    ],
+    "marbledsarsenal:hazmat_armor_helmet": [
+      954,
+      0.368
+    ],
+    "marbledsarsenal:helmet_cm6m_gas_mask": [
+      444,
+      4.448
+    ],
+    "marbledsarsenal:helmet_cm7m_gas_mask": [
+      444,
+      4.448
+    ],
+    "marbledsarsenal:helmet_cm8m_gas_mask": [
+      444,
+      4.448
+    ],
+    "marbledsarsenal:medical_combat_helmet": [
+      444,
+      4.448
+    ],
+    "marbledsarsenal:medical_helmet_cm6m_gas_mask": [
+      444,
+      4.448
+    ],
+    "marbledsarsenal:medical_helmet_cm7m_gas_mask": [
+      444,
+      4.448
+    ],
+    "marbledsarsenal:medical_helmet_cm8m_gas_mask": [
+      444,
+      4.448
+    ],
+    "marbledsarsenal:medical_olive_combat_helmet": [
+      444,
+      4.448
+    ],
+    "marbledsarsenal:medical_olive_helmet_cm6m_gas_mask": [
+      444,
+      4.448
+    ],
+    "marbledsarsenal:medical_olive_helmet_cm7m_gas_mask": [
+      444,
+      4.448
+    ],
+    "marbledsarsenal:medical_olive_helmet_cm8m_gas_mask": [
+      444,
+      4.448
+    ],
+    "marbledsarsenal:medical_un_combat_helmet": [
+      444,
+      4.448
+    ],
+    "marbledsarsenal:medical_un_helmet_cm6m_gas_mask": [
+      444,
+      4.448
+    ],
+    "marbledsarsenal:medical_un_helmet_cm7m_gas_mask": [
+      444,
+      4.448
+    ],
+    "marbledsarsenal:medical_un_helmet_cm8m_gas_mask": [
+      444,
+      4.448
+    ],
+    "marbledsarsenal:olive_combat_helmet": [
+      444,
+      4.448
+    ],
+    "marbledsarsenal:olive_helmet_cm6m_gas_mask": [
+      444,
+      4.448
+    ],
+    "marbledsarsenal:olive_helmet_cm7m_gas_mask": [
+      444,
+      4.448
+    ],
+    "marbledsarsenal:olive_helmet_cm8m_gas_mask": [
+      444,
+      4.448
+    ],
+    "marbledsarsenal:olive_juggernaut_armor_helmet": [
+      361,
+      5.112
+    ],
+    "marbledsarsenal:red_military_beret": [
+      1356,
+      -2.848
+    ],
+    "marbledsarsenal:riot_armor_helmet": [
+      444,
+      4.448
+    ],
+    "marbledsarsenal:swat_armor_helmet": [
+      444,
+      4.448
+    ],
+    "marbledsarsenal:un_combat_helmet": [
+      444,
+      4.448
+    ],
+    "marbledsarsenal:un_helmet_cm6m_gas_mask": [
+      444,
+      4.448
+    ],
+    "marbledsarsenal:un_helmet_cm7m_gas_mask": [
+      444,
+      4.448
+    ],
+    "marbledsarsenal:un_helmet_cm8m_gas_mask": [
+      444,
+      4.448
+    ],
+    "marbledsarsenal:un_military_beret": [
+      1356,
+      -2.848
+    ],
+    "marbledsarsenal:white_gp5_gas_mask": [
+      954,
+      0.368
+    ],
+    "marbledsarsenal:winter_military_armor_helmet": [
+      444,
+      4.448
+    ],
+    "mekanism:hazmat_mask": [
+      1500,
+      -4.0
+    ],
+    "mekanism:mekasuit_helmet": [
+      98,
+      7.216
+    ],
+    "mekanism:scuba_mask": [
+      1500,
+      -4.0
+    ],
+    "mekanismtools:bronze_helmet": [
+      455,
+      4.36
+    ],
+    "mekanismtools:lapis_lazuli_helmet": [
+      1145,
+      -1.16
+    ],
+    "mekanismtools:osmium_helmet": [
+      1,
+      8.632
+    ],
+    "mekanismtools:refined_glowstone_helmet": [
+      281,
+      5.752
+    ],
+    "mekanismtools:refined_obsidian_helmet": [
+      1,
+      24.896
+    ],
+    "mekanismtools:steel_helmet": [
+      201,
+      6.392
+    ],
+    "minecraft:chainmail_helmet": [
+      1098,
+      -0.784
+    ],
+    "minecraft:diamond_helmet": [
+      444,
+      4.448
+    ],
+    "minecraft:golden_helmet": [
+      1201,
+      -1.608
+    ],
+    "minecraft:iron_helmet": [
+      954,
+      0.368
+    ],
+    "minecraft:leather_helmet": [
+      1356,
+      -2.848
+    ],
+    "minecraft:netherite_helmet": [
+      361,
+      5.112
+    ],
+    "minecraft:shulker_shell": [
+      1328,
+      -2.624
+    ],
+    "minecraft:turtle_helmet": [
+      865,
+      1.08
+    ],
+    "mutantmore:hog_helm": [
+      1500,
+      -4.0
+    ],
+    "mutantmore:mutant_wither_skeleton_skull": [
+      1500,
+      -4.0
+    ],
+    "sanitydim:garland": [
+      1366,
+      -2.928
+    ],
+    "taccraft:assault_vest_helmet": [
+      1,
+      11.328
+    ],
+    "taccraft:flak_vest_helmet": [
+      410,
+      4.72
+    ],
+    "taccraft:heavy_assault_vest_helmet": [
+      1,
+      20.768
+    ],
+    "taccraft:plate_carrier_helmet": [
+      1,
+      9.136
+    ],
+    "taccraft:rrv_chest_rig_helmet": [
+      891,
+      0.872
+    ],
+    "toughasnails:leaf_helmet": [
+      1447,
+      -3.576
+    ],
+    "toughasnails:wool_helmet": [
+      1447,
+      -3.576
+    ],
+    "vinery:straw_hat": [
+      1302,
+      -2.416
+    ],
+    "wardrobe:cake_hat_helmet": [
+      1500,
+      -4.0
+    ],
+    "wardrobe:desert_helmet": [
+      1414,
+      -3.312
+    ],
+    "wardrobe:farmers_hat_helmet": [
+      1478,
+      -3.824
+    ],
+    "wardrobe:fletchers_hat_helmet": [
+      1478,
+      -3.824
+    ],
+    "wardrobe:fox_hat_helmet": [
+      821,
+      1.432
+    ],
+    "wardrobe:hat_helmet": [
+      1500,
+      -4.0
+    ],
+    "wardrobe:leather_top_hat_helmet": [
+      1500,
+      -4.0
+    ],
+    "wardrobe:newsboy_cap_helmet": [
+      1500,
+      -4.0
+    ],
+    "wardrobe:snow_fox_hat_helmet": [
+      821,
+      1.432
+    ],
+    "wardrobe:snowy_helmet": [
+      987,
+      0.104
+    ],
+    "wardrobe:snowy_hood_covered_helmet": [
+      1358,
+      -2.864
+    ],
+    "wardrobe:taiga_helmet": [
+      1121,
+      -0.968
+    ]
+  }
+}
