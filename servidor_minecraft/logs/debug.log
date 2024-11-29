@@ -11226,3 +11226,62 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [29Nov2024 06:56:45.803] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-20, 26], pos: BlockPos{x=-305, y=111, z=424}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / campsite_structures:cleric_campsite]
 [29Nov2024 06:56:45.803] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-20, 26], pos: BlockPos{x=-305, y=111, z=425}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / campsite_structures:cleric_campsite]
 [29Nov2024 06:57:48.690] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed ZombieVillagerEntityMCA['Suzana'/4409, l='ServerLevel[world]', x=-168.50, y=79.00, z=277.50, removed=DISCARDED].
+[29Nov2024 07:00:05.791] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Nov2024 07:00:05.806] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Nov2024 07:01:44.039] [Server thread/WARN] [cgm/]: literal{jecq24}(59dbf1c7-a196-3913-b1e5-3aa430a2d1de) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 52
+[29Nov2024 07:02:04.945] [Server thread/WARN] [cgm/]: literal{jecq24}(59dbf1c7-a196-3913-b1e5-3aa430a2d1de) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 99
+[29Nov2024 07:02:14.439] [Server thread/WARN] [cgm/]: literal{jecq24}(59dbf1c7-a196-3913-b1e5-3aa430a2d1de) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 53
+[29Nov2024 07:02:17.589] [Server thread/WARN] [cgm/]: literal{jecq24}(59dbf1c7-a196-3913-b1e5-3aa430a2d1de) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 55
+[29Nov2024 07:02:22.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jecq24 has made the advancement [Acquire Hardware]
+[29Nov2024 07:03:16.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jecq24: Set own game mode to Spectator Mode]
+[29Nov2024 07:03:25.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jecq24: Set own game mode to Creative Mode]
+[29Nov2024 07:04:30.986] [Server thread/DEBUG] [mixin/]: Mixing alloc.explosion_behavior.EntityBasedExplosionDamageCalculatorMixin from canary.mixins.json into net.minecraft.world.level.EntityBasedExplosionDamageCalculator
+[29Nov2024 07:04:48.843] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed ZombieVillagerEntityMCA['Hristo'/5724, l='ServerLevel[world]', x=-140.62, y=77.00, z=245.13, removed=DISCARDED].
+[29Nov2024 07:04:50.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jecq24: Removed every effect from jecq24]
+[29Nov2024 07:04:59.190] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed ZombieVillagerEntityMCA['Sami'/5744, l='ServerLevel[world]', x=-120.70, y=71.00, z=230.14, removed=DISCARDED].
+[29Nov2024 07:05:05.791] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Nov2024 07:05:05.803] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Nov2024 07:06:17.425] [Server thread/WARN] [cgm/]: literal{jecq24}(59dbf1c7-a196-3913-b1e5-3aa430a2d1de) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 70
+[29Nov2024 07:06:23.139] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed ZombieVillagerEntityMCA['Evdokija'/6059, l='ServerLevel[world]', x=66.50, y=33.00, z=181.50, removed=DISCARDED].
+[29Nov2024 07:06:24.635] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Abdulkader'/779, l='ServerLevel[world]', x=180.53, y=84.00, z=149.30] died, message: 'death.attack.infection'
+[29Nov2024 07:06:24.636] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed ZombieVillagerEntityMCA['Male Zombie Villager'/6084, l='ServerLevel[world]', x=180.53, y=84.00, z=149.30, removed=DISCARDED].
+[29Nov2024 07:07:13.174] [Server thread/WARN] [cgm/]: literal{jecq24}(59dbf1c7-a196-3913-b1e5-3aa430a2d1de) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 56
+[29Nov2024 07:07:25.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jecq24: Set the time to 13000]
+[29Nov2024 07:07:40.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jecq24: Set the time to 360000]
+[29Nov2024 07:07:45.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jecq24: Set the time to 13000]
+[29Nov2024 07:07:48.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jecq24: Set the time to 360000]
+[29Nov2024 07:07:58.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jecq24: Set the time to 240000]
+[29Nov2024 07:08:01.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jecq24: Set the time to 13000]
+[29Nov2024 07:08:02.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jecq24: Set the time to 240000]
+[29Nov2024 07:08:12.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jecq24: Set the time to 18000]
+[29Nov2024 07:08:15.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jecq24: Set the time to 240000]
+[29Nov2024 07:08:17.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jecq24: Set the time to 18000]
+[29Nov2024 07:08:18.249] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Aleksandar'/781, l='ServerLevel[world]', x=152.51, y=89.00, z=167.15] died, message: 'death.attack.infection'
+[29Nov2024 07:08:18.250] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed ZombieVillagerEntityMCA['Male Zombie Villager'/7086, l='ServerLevel[world]', x=152.51, y=89.00, z=167.15, removed=DISCARDED].
+[29Nov2024 07:08:29.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jecq24: Set the time to 18236]
+[29Nov2024 07:08:33.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jecq24: Set the time to 18319]
+[29Nov2024 07:08:41.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jecq24: Set the time to 18479]
+[29Nov2024 07:08:44.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jecq24: Set the time to 18533]
+[29Nov2024 07:08:45.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jecq24: Set the time to 18567]
+[29Nov2024 07:08:50.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jecq24: Set the time to 18657]
+[29Nov2024 07:08:51.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jecq24: Set the time to 18685]
+[29Nov2024 07:08:59.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jecq24: Set the time to 18847]
+[29Nov2024 07:09:02.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jecq24: Set the time to 18891]
+[29Nov2024 07:09:03.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jecq24: Set the time to 18921]
+[29Nov2024 07:09:04.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jecq24: Set the time to 18942]
+[29Nov2024 07:09:05.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jecq24: Set the time to 18968]
+[29Nov2024 07:09:07.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jecq24: Set the time to 18990]
+[29Nov2024 07:09:08.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jecq24: Set the time to 19020]
+[29Nov2024 07:09:09.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jecq24: Set the time to 19041]
+[29Nov2024 07:09:36.508] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2376ms or 47 ticks behind
+[29Nov2024 07:09:42.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jecq24 has made the advancement [Stay dead]
+[29Nov2024 07:10:08.159] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Nov2024 07:10:08.173] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Nov2024 07:10:34.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jecq24: Set own game mode to Spectator Mode]
+[29Nov2024 07:10:38.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jecq24: Set own game mode to Survival Mode]
+[29Nov2024 07:11:18.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jecq24: Set the time to 1000]
+[29Nov2024 07:11:39.492] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jecq24 lost connection: Disconnected
+[29Nov2024 07:11:39.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jecq24 left the game
+[29Nov2024 07:11:39.497] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 59dbf1c7-a196-3913-b1e5-3aa430a2d1de was unloaded
+[29Nov2024 07:15:08.156] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Nov2024 07:15:08.175] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
