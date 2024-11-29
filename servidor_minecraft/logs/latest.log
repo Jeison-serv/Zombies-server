@@ -2382,3 +2382,6 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [29Nov2024 19:06:49.963] [Server thread/WARN] [cgm/]: literal{jecq24}(59dbf1c7-a196-3913-b1e5-3aa430a2d1de) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 99
 [29Nov2024 19:07:22.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jecq24: Set own game mode to Survival Mode]
 [29Nov2024 19:07:31.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jecq24: Set own game mode to Creative Mode]
+[29Nov2024 19:11:14.159] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jecq24 lost connection: Disconnected
+[29Nov2024 19:11:14.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jecq24 left the game
+[29Nov2024 19:11:14.162] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 59dbf1c7-a196-3913-b1e5-3aa430a2d1de was unloaded
